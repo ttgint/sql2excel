@@ -1,0 +1,14 @@
+# NetBeans specific #
+target/
+
+
+# Class Files #
+*.class
+
+# Log Files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
